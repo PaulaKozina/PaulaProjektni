@@ -15,6 +15,7 @@ color: deeppink;
 .pozadina {
   background-image: url(slike/"space.jpeg");
   background-image: url("space.jpeg");
+  background-color: pink
 }
 img {
   height: 300px;

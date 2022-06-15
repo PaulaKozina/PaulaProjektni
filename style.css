@@ -1,0 +1,34 @@
+@charset "UTF-8";
+p {
+  color: antiquewhite;
+  font-family: Garamond;
+  font-size: 18px;
+  line-height:20px;
+  width: 800px;
+  background-color: deeppink;
+  padding: 25px;
+}
+h1,h2 {
+font-family: Garamond;
+color: deeppink;
+}
+.pozadina {
+  background-image: url(slike/"space.jpeg");
+  background-image: url("space.jpeg");
+}
+img {
+  height: 300px;
+}
+a:link {
+  color: deeppink;
+  background-color: pink;
+  padding: 5px;
+  line-height: 32px;
+  border: 1px solid black;
+}
+a:hover {
+  background-color: antiquewhite;
+}
+a:visited {
+  color: deeppink
+}
